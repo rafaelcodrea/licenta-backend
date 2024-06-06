@@ -40,6 +40,7 @@ class Transaction:
         self.sender = sender
         self.receiver = receiver
         self.value = value
+        #self.hashValue
         self.data = data
         self.message = message
 
